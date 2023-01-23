@@ -45,7 +45,6 @@ public class Merge {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     private boolean search_error_file() throws IOException {
